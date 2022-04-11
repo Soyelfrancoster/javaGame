@@ -6,6 +6,8 @@ import javax.swing.*;
 public class Juego {
 
     private static void createWindow() {
+        
+        // Se crea la ventana
         JFrame frame = new JFrame("Jueguito random");
         
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
